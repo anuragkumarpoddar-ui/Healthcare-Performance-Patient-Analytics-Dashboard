@@ -216,33 +216,32 @@ The dashboard helps answer questions such as:
 
 ## 🗂️ Data Areas
 
-The project uses a structured healthcare dataset containing the following analytical areas:
+The project uses a structured healthcare dataset covering the following areas:
 
 ```text
 Healthcare Dataset
 │
-├── Patient
+├── 👤 Patient
 │   └── Patient_ID
 │
-├── Admission / Discharge
+├── 📅 Admission / Discharge
 │   ├── Admit_Date
 │   ├── Discharge_Date
 │   └── Followup Date
 │
-├── Clinical
+├── 🩺 Clinical
 │   ├── Diagnosis
 │   └── Test
 │
-├── Bed / Capacity
+├── 🏥 Bed / Capacity
 │   └── Bed_Occupancy
 │
-├── Doctor
+├── 👨‍⚕️ Doctor
 │   └── Doctor
 │
-├── Feedback
+├── ⭐ Feedback
 │   └── Feedback
 │
-└── Financial
+└── 💰 Financial
     ├── Billing Amount
     └── Health Insurance Amount
-

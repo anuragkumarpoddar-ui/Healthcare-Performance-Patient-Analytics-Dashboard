@@ -214,6 +214,7 @@ The dashboard helps answer questions such as:
 
 ---
 
+
 ## 🗂️ Data Areas
 
 The project uses a structured healthcare dataset covering the following areas:
